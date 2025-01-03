@@ -17,7 +17,7 @@ If this ends up becoming detected by playit.gg DM `desktop.ini` on discord
 
 - **Undetected Stealer** built in Go
 - 🛜 Advanced Virtual Machine Detection
-- 🖥️ Undetected by playit.gg (Pretty sure playit detects things like )
+- 🖥️ Undetected by playit.gg (Playit detects things like Asyncrat, Quasar or whatever. Basically, it detects shit malware.)
 
 </details>
 
