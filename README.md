@@ -1,27 +1,34 @@
-# 🔮 Sryxen: Advanced Undetected Stealer 🔮
+# 🔮 ~~Seroxen~~ Sryxen: Advanced Undetected Stealer 🔮
 
-_A fully undetected stealer written in Go, offering a rich feature set and a custom C2 web panel for seamless management._
-
+_Bu- but... 0x11 isnt malware against playit.gg's terms?_
+Yes, malware is against playit.gg's terms but I dont care.
 ---
-- Want paid version? contact me at : https://t.me/codepulze
-- <a href="https://t.me/pulzetools"><img src="https://img.shields.io/badge/Join%20my%20Telegram%20group-2CA5E0?style=for-the-badge&logo=telegram&labelColor=db44ad&color=5e2775"></a>
-- [Join our Discord server!](https://discord.gg/NRTdwYUtdQ)
-
+ALL CREDITS GO TO @EVILBYTECODE FOR THE ORIGINAL SOFTWARE
 ---
 
 ## Features
 
-### 🥇 Core Capabilities
+<details>
+<summary>🥇 Core Capabilities</summary>
+
 - **Undetected Stealer** built in Go
 - 🛜 Advanced Virtual Machine Detection
-- 🖥️ Collects Detailed System Information
+- 🖥️ Undetected by playit.gg (Pretty sure playit detects things like )
 
-### 🚀 Browser Credential Stealing
+</details>
+
+<details>
+<summary>🚀 Browser Credential Stealing</summary>
+
 - ✅ Supports Latest Browsers:
   - Chrome v127+ (including Brave, Edge, Opera)
   - Gecko-based Browsers (e.g., Firefox)
 
-### 💰 Crypto Wallet Stealing
+</details>
+
+<details>
+<summary>💰 Crypto Wallet Stealing</summary>
+
 - Local and Browser Wallets
 - 🔥 Supports 34+ Wallets, including:
   - Exodus
@@ -30,7 +37,11 @@ _A fully undetected stealer written in Go, offering a rich feature set and a cus
   - Trust Wallet
   - Phantom
 
-### 🎮 Gaming Credentials
+</details>
+
+<details>
+<summary>🎮 Gaming Credentials</summary>
+
 - 🎮 Roblox Cookies
 - 🎮 Minecraft (14+ Clients)
 - 🕹 Epic Games
@@ -38,7 +49,11 @@ _A fully undetected stealer written in Go, offering a rich feature set and a cus
 - 🎮 Growtopia
 - 🎮 Battle.net
 
-### 💬 Social Media and Messaging Apps
+</details>
+
+<details>
+<summary>💬 Social Media and Messaging Apps</summary>
+
 - 💬 Messaging and Token Stealing:
   - Discord Tokens
   - Skype
@@ -50,14 +65,24 @@ _A fully undetected stealer written in Go, offering a rich feature set and a cus
   - Signal
   - Viber
 
-### 🛡 VPN Credential Stealing
+</details>
+
+<details>
+<summary>🛡 VPN Credential Stealing</summary>
+
 - 🔒 ProtonVPN
 - 🌊 Surfshark
 - 🌐 OpenVPN
 
-### 🐀 Extras
-- Compiled Works on windows 10-11 machines.
+</details>
+
+<details>
+<summary>🐀 Extras</summary>
+
+- Compiled Works on Windows 10-11 machines.
 - Multiple Failsafe Mechanisms
+
+</details>
 
 ---
 
@@ -69,13 +94,12 @@ The Sryxen stealer includes a **Custom C2 Web Panel** for easy management and mo
 #### Setting Up
 - BEFORE DOING ANYTHING RUN ```init.bat```
 1. **Port Forwarding with Playit.gg**
-   - Use [Playit.gg](https://playit.gg) to get url with port.
-   - After in main.go replace the port with yours and after open the url that playit gave you.
+   - Use [Playit.gg](https://playit.gg) to get a URL with a port.
+   - In `main.go`, replace the port with yours, and then open the URL that Playit provided.
 
 ## Detections (Runtime Paid analysis & Static):
-![Static Analaysis](https://github.com/user-attachments/assets/b089cb06-2883-4c45-9e4a-e7f0d4222a2c)
+![Static Analysis](https://github.com/user-attachments/assets/b089cb06-2883-4c45-9e4a-e7f0d4222a2c)
 ![Paid Runtime Analysis](https://github.com/user-attachments/assets/7bd99777-b6cf-4afd-903f-5f2ef7602b64)
-
 
 ## Panel Looks:
 ![image](https://github.com/user-attachments/assets/14b5aeba-6866-42a6-a0dd-f61b27a649d2)
@@ -84,6 +108,3 @@ The Sryxen stealer includes a **Custom C2 Web Panel** for easy management and mo
 
 ## 📜 License & Disclaimer
 By using this software, you acknowledge that the author does not take responsibility for any misuse, damage, or consequences resulting from the usage of this tool. This software is intended for educational purposes only.
-
-
-   
