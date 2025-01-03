@@ -1,4 +1,4 @@
-# 🔮 ~~Seroxen~~ Sryxen: Advanced Undetected Stealer 🔮
+#  ~~Seroxen~~ Sryxen: Advanced Undetected Stealer
 
 ALL CREDITS GO TO @EVILBYTECODE FOR THE ORIGINAL SOFTWARE
 
