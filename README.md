@@ -1,9 +1,13 @@
 # 🔮 ~~Seroxen~~ Sryxen: Advanced Undetected Stealer 🔮
 
+ALL CREDITS GO TO @EVILBYTECODE FOR THE ORIGINAL SOFTWARE
+
 _Bu- but... 0x11 isnt malware against playit.gg's terms?_
 Yes, malware is against playit.gg's terms but I dont care.
----
-ALL CREDITS GO TO @EVILBYTECODE FOR THE ORIGINAL SOFTWARE
+
+If this ends up becoming detected by playit.gg DM `desktop.ini` on discord
+
+
 ---
 
 ## Features
